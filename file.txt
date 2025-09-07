@@ -1,1 +1,2 @@
-something is new
+something is newcode B
+new C

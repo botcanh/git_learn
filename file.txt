@@ -1,2 +1,2 @@
 something is newcode B
-new C
+new 
